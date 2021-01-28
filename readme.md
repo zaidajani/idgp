@@ -23,7 +23,7 @@ console.log(idgen(4));
 
 The output would be a random string with 4 characters.
 
-like `ryw3`.
+Like `ryw3`.
 
 ## Syntax
 

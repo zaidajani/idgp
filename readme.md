@@ -14,11 +14,9 @@ This is a program made in javascript which is open source. It generates ids and 
 <br>
 
 ```javascript
-
-const idgen = require('idgen');
+import idgen from "idgen";
 
 console.log(idgen(4));
-
 ```
 
 The output would be a random string with 4 characters.
@@ -28,7 +26,6 @@ Like `ryw3`.
 ## Syntax
 
 ```javascript
-
 idgen(4);
 /* ^  ^--------------| 
   function        length of the random generated string.
